@@ -1,5 +1,11 @@
 # About Me
-## print("Hello world")
+## 
+__     __ _   _ 
+\ \   / /| \ | |
+ \ \_/ / |  \| |
+  \   /  | . ` |
+   | |   | |\  |
+   |_|   |_| \_|
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Gchq6Zy99/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yn_0832?igsh=eDNxY2xkMXljeW1q) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@tiktok_yn?_r=1&_t=ZS-91ddCHYGcd6) 
